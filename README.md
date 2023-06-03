@@ -1,6 +1,6 @@
 # Chocolatey Send-MouseClick extension (`chocolatey-sendmouseclick.extension`)
 
-A [Chocolatey extension](https://docs.chocolatey.org/en-us/features/extensions) providing helper functions to trigger mouse clicks (send mouse related SendInput calls). These functions may be used in Chocolatey install and uninstall scripts by declaring this package a dependency in your package's `.nuspec`.
+A [Chocolatey extension](https://docs.chocolatey.org/en-us/features/extensions) providing helper functions to send mouse clicks (mouse related SendInput calls). These functions may be used in Chocolatey install and uninstall scripts by declaring this package a dependency in your package's `.nuspec`.
 
 
 ## Installation
