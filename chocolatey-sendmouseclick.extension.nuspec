@@ -11,7 +11,7 @@
     <title>Chocolatey Send-MouseClick extension</title>
     <authors>foundata</authors>
     <projectUrl>https://github.com/foundata/chocolatey-sendmouseclick.extension/</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/foundata/chocolatey-sendmouseclick.extension/main/assets/image/cursor-default-click-outline.svg</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/foundata/chocolatey-sendmouseclick.extension/main/assets/images/cursor-default-click-outline.svg</iconUrl>
     <copyright>
       Copyright (c) 2023 foundata GmbH (https://github.com/foundata/chocolatey-sendmouseclick.extension)
     </copyright>
