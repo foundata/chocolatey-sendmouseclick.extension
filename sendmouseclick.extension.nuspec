@@ -3,12 +3,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
-    <id>chocolatey-sendmouseclick.extension</id>
+    <id>sendmouseclick.extension</id>
     <version>1.0.0</version>
     <packageSourceUrl>https://github.com/foundata/chocolatey-sendmouseclick.extension/</packageSourceUrl>
     <owners>foundata</owners>
     <!-- == SOFTWARE SPECIFIC SECTION == -->
-    <title>Chocolatey Send-MouseClick extension</title>
+    <title>Send-MouseClick extension</title>
     <authors>foundata</authors>
     <projectUrl>https://github.com/foundata/chocolatey-sendmouseclick.extension/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/foundata/chocolatey-sendmouseclick.extension/main/assets/images/cursor-default-click-outline.svg</iconUrl>
@@ -20,15 +20,15 @@
     <projectSourceUrl>https://github.com/foundata/chocolatey-sendmouseclick.extension/</projectSourceUrl>
     <docsUrl>https://github.com/foundata/chocolatey-sendmouseclick.extension/blob/main/README.md</docsUrl>
     <bugTrackerUrl>https://github.com/foundata/chocolatey-sendmouseclick.extension/issues</bugTrackerUrl>
-    <tags>chocolatey-sendmouseclick.extension mouse-events mouse-emulation click non-silent user32.dll</tags>
+    <tags>sendmouseclick.extension mouse-events mouse-emulation click non-silent user32.dll</tags>
     <summary>
       Helper functions to trigger mouse clicks (send mouse related SendInput calls).
     </summary>
     <description><![CDATA[
-A [Chocolatey extension](https://docs.chocolatey.org/en-us/features/extensions) providing helper functions to send mouse clicks (mouse related SendInput calls). These functions may be used in Chocolatey install and uninstall scripts by declaring this package a dependency in your package's `.nuspec`.
+An unofficial [Chocolatey extension](https://docs.chocolatey.org/en-us/features/extensions) providing helper functions to send mouse clicks (mouse related SendInput calls). These functions may be used in Chocolatey install and uninstall scripts by declaring this package a dependency in your package's `.nuspec`.
     ]]></description>
     <dependencies>
-      <dependency id="chocolatey-usewindow.extension" version="0.0.1" />
+      <dependency id="usewindow.extension" version="0.0.1" />
     </dependencies>
   </metadata>
   <files>
