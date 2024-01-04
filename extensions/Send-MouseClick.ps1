@@ -1,4 +1,14 @@
-﻿function Send-MouseClick {
+﻿<#
+.SYNOPSIS
+    Function file.
+
+.NOTES
+    SPDX-License-Identifier: Apache-2.0
+    SPDX-FileCopyrightText: foundata GmbH <https://foundata.com>
+#>
+
+
+function Send-MouseClick {
     <#
     .SYNOPSIS
         Sends mouse clicks to the active application with optional, automatic window

@@ -13,9 +13,9 @@
     <projectUrl>https://github.com/foundata/chocolatey-sendmouseclick.extension/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/foundata/chocolatey-sendmouseclick.extension/main/assets/images/cursor-default-click-outline.svg</iconUrl>
     <copyright>
-      Copyright (c) 2023 foundata GmbH (https://github.com/foundata/chocolatey-sendmouseclick.extension)
+      Copyright (c) 2023, 2024 foundata GmbH (https://github.com/foundata/chocolatey-sendmouseclick.extension)
     </copyright>
-    <licenseUrl>https://github.com/foundata/chocolatey-sendmouseclick.extension/blob/main/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/foundata/chocolatey-sendmouseclick.extension/blob/main/LICENSES/Apache-2.0.txt</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/foundata/chocolatey-sendmouseclick.extension/</projectSourceUrl>
     <docsUrl>https://github.com/foundata/chocolatey-sendmouseclick.extension/blob/main/README.md</docsUrl>

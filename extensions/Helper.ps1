@@ -1,4 +1,15 @@
-﻿Add-Type -Language 'CSharp' -ReferencedAssemblies @('System', 'System.Drawing', 'System.Runtime.InteropServices', 'System.Windows.Forms') -TypeDefinition @"
+﻿<#
+.SYNOPSIS
+    Helper file to provide shared resources for different parts of the
+    extension.
+
+.NOTES
+    SPDX-License-Identifier: Apache-2.0
+    SPDX-FileCopyrightText: foundata GmbH <https://foundata.com>
+#>
+
+
+Add-Type -Language 'CSharp' -ReferencedAssemblies @('System', 'System.Drawing', 'System.Runtime.InteropServices', 'System.Windows.Forms') -TypeDefinition @"
     using System;
     using System.Drawing;
     using System.Runtime.InteropServices;
