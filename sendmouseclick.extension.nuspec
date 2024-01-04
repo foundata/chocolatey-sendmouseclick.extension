@@ -12,9 +12,11 @@
     <authors>foundata</authors>
     <projectUrl>https://github.com/foundata/chocolatey-sendmouseclick.extension/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/foundata/chocolatey-sendmouseclick.extension/main/assets/images/cursor-default-click-outline.svg</iconUrl>
-    <copyright>
-      Copyright (c) 2023, 2024 foundata GmbH (https://github.com/foundata/chocolatey-sendmouseclick.extension)
-    </copyright>
+    <copyright><![CDATA[
+Copyright (c) 2023, 2024 foundata GmbH (https://github.com/foundata/chocolatey-sendmouseclick.extension)
+
+The [`.reuse/dep5`](https://github.com/foundata/chocolatey-sendmouseclick.extension/blob/main/.reuse/dep5) file provides detailed licensing and copyright information in a human- and machine-readable format. This includes parts that may be subject to different licensing or usage terms, such as third party components.
+    ]]></copyright>
     <licenseUrl>https://github.com/foundata/chocolatey-sendmouseclick.extension/blob/main/LICENSES/Apache-2.0.txt</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/foundata/chocolatey-sendmouseclick.extension/</projectSourceUrl>

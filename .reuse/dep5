@@ -15,3 +15,9 @@ Disclaimer: This project may include calls to Application Programming Interfaces
 Files: *
 Copyright: foundata GmbH <https://foundata.com>
 License: Apache-2.0
+
+
+Files: assets/images/cursor-default-click-outline.svg
+Copyright: 2022 Pictogrammers / Michael Irigoyen <https://pictogrammers.com/contributor/mririgoyen/>
+License: Apache-2.0
+Comment: https://pictogrammers.com/library/mdi/icon/cursor-default-click-outline/, https://pictogrammers.com/docs/general/license/
